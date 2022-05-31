@@ -1,0 +1,18 @@
+body {
+  --twitter-color: #50b7f5;
+  --twitter-background: #212121;
+}
+
+.app {
+  background-color: #212121;
+  display: flex;
+  height: 100%;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}
+
+.landing_button {
+  justify-content: center;
+}
